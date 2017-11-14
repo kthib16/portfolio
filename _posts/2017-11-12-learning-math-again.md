@@ -4,7 +4,7 @@ title: Learning Math Again
 thumbnail-path: "img/typing.gif"
 ---
 
-I used to be a pretty decent student. I got A's in all of my classes and Math was no exception. But then I went to college and became a liberal arts major and out went any math I had picked up in my 22 years of life. Now that I'm learning java, I'm realizing that I'm using parts of my brain that I haven't used in a long, long time.
+I used to be a pretty decent student. I got A's in all of my classes and Math was no exception. But then I went to college and became a liberal arts major and out went any math I had picked up in my 22 years of life. Now that I'm learning JavaScript, I'm realizing that I'm using parts of my brain that I haven't used in a long, long time.
 
 &nbsp;
 
@@ -30,4 +30,4 @@ And it wasn't just about learning math all over again. Part of the most difficul
 
 This has probably been the trickiest part of learning different programming languages. For everything else, it's simple enough to Google what exactly array.splice() does, but it's not exactly easy to find the best way to plan for different scenarios. For that it's going to take a lot of trial and error.
 
-But that's much of the fun of programming so far. 
+But that's much of the fun of programming so far.

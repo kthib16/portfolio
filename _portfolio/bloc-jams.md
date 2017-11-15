@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocJams
-thumbnail-path: "img/blocjams.png"
+thumbnail-path: "img/BlocJams.png"
 short-description: BlocJams is an online music library to store and play music.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }}/img/BlocJams.png)
 
 ### Explanation
 
